@@ -8,6 +8,9 @@ https://woozy-helenium-b71.notion.site/Programming-Review-Prompt-e1bcb286c89e468
 - [x] The ~CSV~ ****Report*** should show per-state population change year-over-year, as well as the prime factorization of the final year's population.
 - [x] Prime factors should be separated by semicolons.
 - [x] Population change should be represented as raw values and percentages in parentheses.
+- [x] Solutions must be submitted with a public facing git repository.
+- [x] The report should be clearly labeled/named in the repository.
+- [x] All data processing from the API and into the CSV must be in Powershell.
 
 *The modification to the second task above was made based on the example provided.
 
